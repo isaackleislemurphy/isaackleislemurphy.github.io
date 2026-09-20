@@ -19,4 +19,13 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
-<!-- end custom head snippets -->
+<!-- MathJax for inline/block LaTeX math -->
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      displayMath: [['$$', '$$']]
+    }
+  };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
