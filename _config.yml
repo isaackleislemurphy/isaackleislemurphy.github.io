@@ -22,8 +22,8 @@ repository               : "isaackleislemurphy/isaackleislemurphy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-ikm.png"
-  name             : "Isaac K-M"
+  avatar           : # "profile-ikm.png"
+  name             : # "Isaac K-M"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
